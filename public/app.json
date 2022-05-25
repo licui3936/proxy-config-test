@@ -1,0 +1,19 @@
+{
+    "startup_app": {
+        "name": "OpenfinPOC",
+        "url": "http://localhost:5555/index.html",
+        "uuid": "OpenfinPOC",
+        "autoShow": true,
+        "saveWindowState": true,
+		"customProxyConfiguration": "hidden"
+    },
+    "runtime": {
+        "arguments": "--inspect=9222 --v=1",
+        "version": "27.102.70.24"
+    },
+    "shortcut": {
+        "company": "OpenFin",
+        "description": "Openfin POC",
+        "name": "Openfin POC"
+    }
+}

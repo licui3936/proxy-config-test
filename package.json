@@ -1,0 +1,10 @@
+{
+  "name": "Proxy-Config-Test",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@types/openfin": "latest",
+    "openfin-adapter": "latest",
+    "live-server": "latest"
+  },
+  "license": "Apache-2.0"
+}
